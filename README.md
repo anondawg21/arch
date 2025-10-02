@@ -1,16 +1,14 @@
 # UTILITIES
 
-## TERMINAL
-
 COMMAND SHELLS
 - Bash
 - Zsh
+  
 TERMINAL EMULATORS
 - Ghostty
 - Kitty
 - Alacritty
 
-FILES
 FILE MANAGERS
 - nnn (C)
 - xplr (RUST)
@@ -87,8 +85,6 @@ SYSTEM
   
 # DOCUMENTS
 
-TEXT EDITORS
-
 CONSOLE
 - nano
 
@@ -100,12 +96,6 @@ VI-STYLE TEXT EDITORS
 GRAPHICAL
 - VSCODE
 - Zed
-
-READERS AND VIEWERS
-TBD
-
-PDF AND DJVU
-TBD
 
 NOTES
 - Obsidian
@@ -136,11 +126,30 @@ VIDEO
 SCREEN CAPTURE
 - shotgun
 
-# SCIENCE
-
 # SECURITY
 
+NETWORK SECURITY
+- ngrep
+- airgeddon
+
+FIREWALL MANAGEMENT
+- firewalld
+
+ANTI MALWARE
+- ClamAV
+- rootkit hunter
+- hostsblock
+
+
+SCREEN LOCK
+- i3lock
+- sflock
+- slock
+PASSWORD MANAGEMENT
+- Bitwarden
+- 1password
+
+ENCRYPTION, SIGNING, STEGANOGRAPHY
+- age
+  
 # OTHER
-
-
-JACK AUDIO AND BITWIG
