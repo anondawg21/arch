@@ -2,56 +2,55 @@
 
 ## TERMINAL
 
-### COMMAND SHELLS
+COMMAND SHELLS
 - Bash
 - Zsh
-### TERMINAL EMULATORS
+TERMINAL EMULATORS
 - Ghostty
 - Kitty
 - Alacritty
 
-## FILES
-
-## FILE MANAGERS
+FILES
+FILE MANAGERS
 - nnn (C)
 - xplr (RUST)
 
-## TRASH MANAGEMENT
+TRASH MANAGEMENT
 - trashy (RUST)
 
-## FILE SYNC AND BACKUP
+FILE SYNC AND BACKUP
 - Timeshift
 - Duplicati
 - Borg
 - rsync
 - Vorta
 
-## COMPARISON, DIFF, MERGE
+COMPARISON, DIFF, MERGE
 - diffr
 
-## BATCH RENAMERS
+BATCH RENAMERS
 - edir
 - thunar
 
-## FILE SEARCHING
+FILE SEARCHING
 - fd (rust)
 
-## VERSION CONTROL
+VERSION CONTROL
 - git
 
-## DEV ENVIRONMENTS
+DEV ENVIRONMENTS
 - VS 2022
 
-## TEXT INPUT
+TEXT INPUT
 - Jome
 
-## ARCHIVING AND COMPRESSION TOOLS
+ARCHIVING AND COMPRESSION TOOLS
 - GNU tar
 - libarchive
 - gzip
 - 7zip
 
-## FONTS
+FONTS
 - Use bitmap Open Type Bitmap Fonts (OTB)
   1.  Dina
   2. Efont
@@ -60,7 +59,7 @@
   5. Tamsyn font
 - Only use Windows fonts if an application/software requires a windows font
 
-## DISKS
+DISKS
 - Fdisk
 - Btrfs
 - Clonezilla
@@ -70,7 +69,7 @@
 - Usbimager
 - klogg
   
-## SYSTEM
+SYSTEM
 - hitome
 - glances
 - dmidecode
@@ -85,58 +84,57 @@
 - redshift (color correction) "not supported in wayland but a patchset exists"
 - systemd (for power management)
 - pkgtop (package management)
-- 
+  
 # DOCUMENTS
 
-## TEXT EDITORS
+TEXT EDITORS
 
-### CONSOLE
+CONSOLE
 - nano
 
-#### VI-STYLE TEXT EDITORS
+VI-STYLE TEXT EDITORS
 - Amp
 - Neovim
 - Vim
 
-### GRAPHICAL
+GRAPHICAL
 - VSCODE
 - Zed
 
-## READERS AND VIEWERS
+READERS AND VIEWERS
 TBD
 
-## PDF AND DJVU
+PDF AND DJVU
 TBD
 
-## NOTES
+NOTES
 - Obsidian
 
 # INTERNET
 
-## NETWORK CONNECTION
+NETWORK CONNECTION
 - netctl
 - NetworkManager
 
-### VPN CLIENTS
+VPN CLIENTS
 - Mullvad
 - ProtonVPN
 
-## WEB BROWSERS
+WEB BROWSERS
 - Firefox
 - Chromium
 
-
 # MULTIMEDIA
 
-## IMAGE VIEWER
+IMAGE VIEWER
 - feh
 
-## VIDEO
+VIDEO
 - VLC
 - FFMPEG
 
-## SCREEN CAPTURE
-- SHOTGUN https://github.com/neXromancers/shotgun
+SCREEN CAPTURE
+- shotgun
 
 # SCIENCE
 
