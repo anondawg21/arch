@@ -80,7 +80,12 @@
 - fcronq
 - chrony (clock)
 - ARandR (screen management)
-- xlayoutdisplay (screenmangement)
+- xlayoutdisplay (screen management)
+- wluma (backlight management)
+- redshift (color correction) "not supported in wayland but a patchset exists"
+- systemd (for power management)
+- pkgtop (package management)
+- 
 # DOCUMENTS
 
 ## TEXT EDITORS
