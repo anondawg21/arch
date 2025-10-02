@@ -17,7 +17,39 @@
 - xplr (RUST)
 
 ## TRASH MANAGEMENT
-- 
+- trashy (RUST)
+
+## FILE SYNC AND BACKUP
+- Timeshift
+- Duplicati
+- Borg
+- rsync
+- Vorta
+
+## COMPARISON, DIFF, MERGE
+- diffr
+
+## BATCH RENAMERS
+- edir
+- thunar
+
+## FILE SEARCHING
+- fd (rust)
+
+## VERSION CONTROL
+- git
+
+## DEV ENVIRONMENTS
+- VS 2022
+
+## TEXT INPUT
+- Jome
+
+## ARCHIVING AND COMPRESSION TOOLS
+- GNU tar
+- libarchive
+- gzip
+- 7zip
 
 ## FONTS
 - Use bitmap Open Type Bitmap Fonts (OTB)
@@ -28,6 +60,27 @@
   5. Tamsyn font
 - Only use Windows fonts if an application/software requires a windows font
 
+## DISKS
+- Fdisk
+- Btrfs
+- Clonezilla
+- dust
+- fclones
+- popsicle
+- Usbimager
+- klogg
+  
+## SYSTEM
+- hitome
+- glances
+- dmidecode
+- pfetch
+- usbview
+- fontpreview
+- fcronq
+- chrony (clock)
+- ARandR (screen management)
+- xlayoutdisplay (screenmangement)
 # DOCUMENTS
 
 ## TEXT EDITORS
