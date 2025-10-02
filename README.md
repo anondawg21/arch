@@ -16,9 +16,6 @@
 - nnn (C)
 - xplr (RUST)
 
-
-
-
 ## FONTS
 - Use bitmap Open Type Bitmap Fonts (OTB)
   1.  Dina
@@ -35,9 +32,38 @@
 ### CONSOLE
 - nano
 
-  
+#### VI-STYLE TEXT EDITORS
+- Amp
+- Neovim
+- Vim
+
+### GRAPHICAL
+- VSCODE
+- Zed
+
+## READERS AND VIEWERS
+TBD
+
+## PDF AND DJVU
+TBD
+
+## NOTES
+- Obsidian
 
 # INTERNET
+
+## NETWORK CONNECTION
+- netctl
+- NetworkManager
+
+### VPN CLIENTS
+- Mullvad
+- ProtonVPN
+
+## WEB BROWSERS
+- Firefox
+- Chromium
+
 
 # MULTIMEDIA
 
