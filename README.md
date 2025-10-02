@@ -16,6 +16,9 @@
 - nnn (C)
 - xplr (RUST)
 
+## TRASH MANAGEMENT
+- 
+
 ## FONTS
 - Use bitmap Open Type Bitmap Fonts (OTB)
   1.  Dina
@@ -82,3 +85,6 @@ TBD
 # SECURITY
 
 # OTHER
+
+
+JACK AUDIO AND BITWIG
