@@ -2,14 +2,13 @@
 
 COMMAND SHELLS
 - Bash
-- Zsh
   
 TERMINAL EMULATORS
 - Ghostty
-- Kitty
-- Alacritty
 
 FILE MANAGERS
+- Dolphin
+- Nemo
 - nnn (C)
 - xplr (RUST)
 
@@ -47,15 +46,16 @@ ARCHIVING AND COMPRESSION TOOLS
 - libarchive
 - gzip
 - 7zip
+- Ark
 
 FONTS
 - Use bitmap Open Type Bitmap Fonts (OTB)
+- Nerdfonts
   1.  Dina
   2. Efont
   3. GNU Unifont
   4. ProFont
-  5. Tamsyn font
-- Only use Windows fonts if an application/software requires a windows font
+  5. Tamsyn fontnt
 
 DISKS
 - Fdisk
@@ -145,6 +145,8 @@ SCREEN LOCK
 - i3lock
 - sflock
 - slock
+- ly
+  
 PASSWORD MANAGEMENT
 - Bitwarden
 - 1password
